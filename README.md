@@ -1,0 +1,1 @@
+https://ta-kon.github.io/Validate-js-Sample/
